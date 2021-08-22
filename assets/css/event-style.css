@@ -100,21 +100,21 @@
 }
 
 .title {
-  font-size: 1.6rem;
+  font-size: 1.5rem;
   font-weight: bold;
   line-height: 1.2;
 }
 
 .copy {
   font-family:"Poppins";
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   line-height: 1.35;
 }
 
 .btn {
   cursor: pointer;
   margin-top: 1.5rem;
-  padding: 0.75rem 1.5rem;
+  padding: 0.5rem 1rem;
   font-size: 0.7rem;
   font-weight: bold;
   border-radius: 5px;
